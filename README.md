@@ -54,7 +54,7 @@ AI • Automation • Minimal Dark UI • Chaos Engineering
 
 <h2 align="center""> <img src="/imgs/sta.png" width="25"/> <em> Statistics </em> </h2>
 <div align = "center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hellsa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hqrin&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 ---
 
 <h2 align="center">PROJECTS</h2>
